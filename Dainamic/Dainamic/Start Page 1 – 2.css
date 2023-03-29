@@ -1,0 +1,485 @@
+	.mediaViewInfo {
+		--web-view-name: Start Page 1 – 2;
+		--web-view-id: Start_Page_1__2;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: Start_Page_1__2;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Start_Page_1__2 {
+		position: absolute;
+		width: 1550px;
+		height: 930px;
+		background-color: rgba(252,253,243,1);
+		overflow: hidden;
+		--web-view-name: Start Page 1 – 2;
+		--web-view-id: Start_Page_1__2;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes  {
+	
+	
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	@keyframes  {
+	
+	
+	}
+	#Path_2 {
+		fill: transparent;
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_2 {
+		overflow: visible;
+		position: absolute;
+		width: 1px;
+		height: 1px;
+		left: 570.892px;
+		top: 96px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#n_2-removebg-preview_1 {
+		position: absolute;
+		width: 724px;
+		height: 724px;
+		left: -343px;
+		top: -310px;
+		overflow: visible;
+	}
+	#Untitled_design_17 {
+		position: absolute;
+		width: 1660px;
+		height: 933px;
+		left: -734px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Untitled_design__18_-removebg- {
+		position: absolute;
+		width: 273px;
+		height: 154px;
+		left: 170px;
+		top: 56px;
+		overflow: visible;
+	}
+	#A_tech_logo_circuit_logo__10_- {
+		position: absolute;
+		width: 210px;
+		height: 210px;
+		left: -18px;
+		top: 0px;
+		overflow: visible;
+		--web-animation: fadein undefineds undefined;
+		--web-action-type: page;
+		--web-action-target: Start_Page_1___1.html;
+		cursor: pointer;
+	}
+	#Welcome_Back_u {
+		left: 220px;
+		top: 348px;
+		position: absolute;
+		overflow: visible;
+		width: 484px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Palatino Linotype;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 70px;
+		color: rgba(255,255,255,1);
+	}
+	#Login_to_Access_Your_Account {
+		left: 198px;
+		top: 446px;
+		position: absolute;
+		overflow: visible;
+		width: 539px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Palatino Linotype;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 40px;
+		color: rgba(255,255,255,1);
+	}
+	#Untitled_design__18_-removebg-_q {
+		position: absolute;
+		width: 273px;
+		height: 154px;
+		left: 189px;
+		top: 716px;
+		overflow: visible;
+	}
+	#Untitled_design__19_-removebg- {
+		position: absolute;
+		width: 190px;
+		height: 106px;
+		left: -34px;
+		top: 704px;
+		overflow: visible;
+	}
+	#Untitled_design__19_-removebg-_s {
+		position: absolute;
+		width: 190px;
+		height: 106px;
+		left: 571px;
+		top: 210px;
+		overflow: visible;
+	}
+	#Welcome_Back_u {
+		left: 220px;
+		top: 348px;
+		position: absolute;
+		overflow: visible;
+		width: 484px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Palatino Linotype;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 70px;
+		color: rgba(255,255,255,1);
+	}
+	#Welcome_Back_u {
+		left: 220px;
+		top: 348px;
+		position: absolute;
+		overflow: visible;
+		width: 484px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Palatino Linotype;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 70px;
+		color: rgba(255,255,255,1);
+	}
+	#A_tech_logo_circuit_logo__6_-r {
+		position: absolute;
+		width: 142px;
+		height: 142px;
+		left: 561px;
+		top: 1051px;
+		overflow: visible;
+	}
+	#Rectangle_66 {
+		fill: rgba(252,253,243,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_66 {
+		position: absolute;
+		overflow: visible;
+		width: 566px;
+		height: 89px;
+		left: 954.119px;
+		top: 320px;
+	}
+	#Password {
+		left: 988.119px;
+		top: 348px;
+		position: absolute;
+		overflow: visible;
+		width: 144px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: italic;
+		font-weight: normal;
+		font-size: 35px;
+		color: rgba(128,128,128,1);
+	}
+	#Untitled_design__20_-removebg- {
+		position: absolute;
+		width: 218.524px;
+		height: 123px;
+		left: 1337.357px;
+		top: 304px;
+		overflow: visible;
+	}
+	#OR {
+		left: 1219.119px;
+		top: 547px;
+		position: absolute;
+		overflow: visible;
+		width: 32px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 23px;
+		color: rgba(143,127,127,1);
+	}
+	#Line_11 {
+		fill: transparent;
+		stroke: rgba(111,111,111,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_11 {
+		overflow: visible;
+		position: absolute;
+		width: 203px;
+		height: 1px;
+		left: 1276.619px;
+		top: 562.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_12 {
+		fill: transparent;
+		stroke: rgba(111,111,111,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_12 {
+		overflow: visible;
+		position: absolute;
+		width: 203px;
+		height: 1px;
+		left: 994.619px;
+		top: 561.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Rectangle_65 {
+		fill: rgba(252,253,243,0.631);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_65 {
+		position: absolute;
+		overflow: visible;
+		width: 566px;
+		height: 89px;
+		left: 954.119px;
+		top: 718px;
+	}
+	#Login_with_Google {
+		left: 1120.119px;
+		top: 739px;
+		position: absolute;
+		overflow: visible;
+		width: 292px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Palatino Linotype;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 35px;
+		color: rgba(112,112,112,1);
+	}
+	#download__1_-removebg-preview {
+		position: absolute;
+		width: 57px;
+		height: 57px;
+		left: 998.119px;
+		top: 735px;
+		overflow: visible;
+	}
+	#Component_15__1 {
+		position: absolute;
+		width: 566px;
+		height: 89px;
+		left: 954.119px;
+		top: 601px;
+		overflow: visible;
+	}
+	#Rectangle_64 {
+		fill: rgba(53,159,240,0.98);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_64 {
+		position: absolute;
+		overflow: visible;
+		width: 566px;
+		height: 89px;
+		left: 0px;
+		top: 0px;
+	}
+	#Login_with_Twitter {
+		left: 166px;
+		top: 21px;
+		position: absolute;
+		overflow: visible;
+		width: 291px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Palatino Linotype;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	#n_277234-middle-removebg-previ {
+		position: absolute;
+		width: 65px;
+		height: 58px;
+		left: 44px;
+		top: 20px;
+		overflow: visible;
+	}
+	#Component_10__1 {
+		position: absolute;
+		width: 369px;
+		height: 74px;
+		left: 959px;
+		top: 829px;
+		overflow: visible;
+		transition: all 0.5s snap;
+		--web-animation: fadein 0.5s snap;
+		--web-action-type: page;
+		--web-action-target: Start_Page_1___3.html;
+		cursor: pointer;
+	}
+	#New_here_Create_an_Account_ {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 370px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Palatino Linotype;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(0,0,0,1);
+	}
+	#Log_In {
+		left: 955.119px;
+		top: 69px;
+		position: absolute;
+		overflow: visible;
+		width: 203px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Palatino Linotype;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 70px;
+		color: rgba(0,0,0,1);
+	}
+	#Rectangle_61 {
+		fill: rgba(252,253,243,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_61 {
+		position: absolute;
+		overflow: visible;
+		width: 566px;
+		height: 89px;
+		left: 954.119px;
+		top: 203px;
+	}
+	#Untitled_design__9_-removebg-p {
+		position: absolute;
+		width: 102px;
+		height: 102px;
+		left: 1398.119px;
+		top: 200px;
+		overflow: visible;
+	}
+	#Email {
+		left: 994.619px;
+		top: 227px;
+		position: absolute;
+		overflow: visible;
+		width: 86px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: italic;
+		font-weight: normal;
+		font-size: 35px;
+		color: rgba(128,128,128,1);
+	}
+	#Component_14__1 {
+		position: absolute;
+		width: 566px;
+		height: 89px;
+		left: 953.119px;
+		top: 440px;
+		overflow: visible;
+		--web-animation: fadein undefineds undefined;
+		--web-action-type: page;
+		--web-action-target: Start_Page_1___4.html;
+		cursor: pointer;
+	}
+	#Path_3 {
+		fill: rgba(118,36,198,0.631);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_3 {
+		overflow: visible;
+		position: absolute;
+		width: 566px;
+		height: 89px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Continue {
+		left: 201px;
+		top: 18px;
+		position: absolute;
+		overflow: visible;
+		width: 145px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Palatino Linotype;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}

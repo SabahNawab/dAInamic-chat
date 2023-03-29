@@ -1,0 +1,301 @@
+	.mediaViewInfo {
+		--web-view-name: Start Page 1 – 4;
+		--web-view-id: Start_Page_1__4;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: Start_Page_1__4;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Start_Page_1__4 {
+		position: absolute;
+		width: 1540px;
+		height: 930px;
+		background-color: rgba(252,253,243,1);
+		overflow: hidden;
+		--web-view-name: Start Page 1 – 4;
+		--web-view-id: Start_Page_1__4;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes  {
+	
+	
+	}
+	#A_tech_logo_circuit_logo__5_-r {
+		position: absolute;
+		width: 173px;
+		height: 173px;
+		left: 1367px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Line_5 {
+		fill: transparent;
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_5 {
+		overflow: visible;
+		position: absolute;
+		width: 13.294px;
+		height: 4.956px;
+		left: 1539.5px;
+		top: 591.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#n_42ef921995c3baed168bf7f54057 {
+		opacity: 0.18;
+		position: absolute;
+		width: 626px;
+		height: 885px;
+		left: 415px;
+		top: -15px;
+		overflow: visible;
+	}
+	#Rectangle_71 {
+		fill: rgba(252,253,243,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_71 {
+		position: absolute;
+		overflow: visible;
+		width: 1223px;
+		height: 85px;
+		left: 163px;
+		top: 814px;
+	}
+	#Chat_here {
+		left: 197.119px;
+		top: 832px;
+		position: absolute;
+		overflow: visible;
+		width: 149px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: italic;
+		font-weight: normal;
+		font-size: 35px;
+		color: rgba(128,128,128,1);
+	}
+	#n_-removebg-preview {
+		position: absolute;
+		width: 85px;
+		height: 152px;
+		left: 1200px;
+		top: 783px;
+		overflow: visible;
+	}
+	#n_-removebg-preview_p {
+		position: absolute;
+		width: 134px;
+		height: 237px;
+		left: 1249px;
+		top: 737px;
+		overflow: visible;
+	}
+	#n_2-removebg-preview {
+		opacity: 0.19;
+		position: absolute;
+		width: 500px;
+		height: 500px;
+		left: 911px;
+		top: 370px;
+		overflow: visible;
+	}
+	#n_1-removebg-preview {
+		opacity: 0.21;
+		position: absolute;
+		width: 437px;
+		height: 437px;
+		left: 72px;
+		top: 137px;
+		overflow: visible;
+	}
+	#n_1-removebg-preview_s {
+		opacity: 0.21;
+		position: absolute;
+		width: 437px;
+		height: 437px;
+		left: 1249px;
+		top: 115px;
+		overflow: visible;
+	}
+	#n_2-removebg-preview_t {
+		opacity: 0.19;
+		position: absolute;
+		width: 500px;
+		height: 500px;
+		left: 197px;
+		top: -197px;
+		overflow: visible;
+	}
+	#Task_Bar__1 {
+		position: absolute;
+		width: 213.12px;
+		height: 892px;
+		left: -27.56px;
+		top: 38px;
+		overflow: visible;
+	}
+	#Rectangle_72 {
+		fill: rgba(252,253,243,1);
+	}
+	.Rectangle_72 {
+		position: absolute;
+		overflow: visible;
+		width: 127px;
+		height: 818px;
+		left: 42.56px;
+		top: 74px;
+	}
+	#Path_6 {
+		opacity: 0;
+		fill: rgba(188,188,188,0.388);
+	}
+	.Path_6 {
+		overflow: visible;
+		position: absolute;
+		width: 88px;
+		height: 88px;
+		left: 66.56px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_20 {
+		fill: transparent;
+		stroke: rgba(112,112,112,1);
+		stroke-width: 3px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_20 {
+		overflow: visible;
+		position: absolute;
+		width: 63px;
+		height: 3px;
+		left: 79.06px;
+		top: 33px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_21 {
+		fill: transparent;
+		stroke: rgba(112,112,112,1);
+		stroke-width: 3px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_21 {
+		overflow: visible;
+		position: absolute;
+		width: 63px;
+		height: 3px;
+		left: 79.06px;
+		top: 46px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_22 {
+		fill: transparent;
+		stroke: rgba(112,112,112,1);
+		stroke-width: 3px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_22 {
+		overflow: visible;
+		position: absolute;
+		width: 63px;
+		height: 3px;
+		left: 79.06px;
+		top: 58px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#n_-removebg-preview_ {
+		opacity: 0;
+		position: absolute;
+		width: 110px;
+		height: 195.36px;
+		left: 44.56px;
+		top: 622.36px;
+		overflow: visible;
+		--web-animation: fadein undefineds undefined;
+		--web-action-type: page;
+		--web-action-target: Start_Page_1___1.html;
+		cursor: pointer;
+	}
+	#n_-removebg-preview_ba {
+		opacity: 0;
+		position: absolute;
+		width: 100px;
+		height: 177.6px;
+		left: 53.56px;
+		top: 533.56px;
+		overflow: visible;
+	}
+	#n_-removebg-preview_bb {
+		opacity: 0;
+		position: absolute;
+		width: 120px;
+		height: 213.12px;
+		left: 42.56px;
+		top: 427px;
+		overflow: visible;
+	}
+	#n_-removebg-preview_bc {
+		opacity: 0;
+		position: absolute;
+		width: 213.12px;
+		height: 120px;
+		left: 0px;
+		top: 385.56px;
+		overflow: visible;
+	}
+	#n_-removebg-preview_bd {
+		opacity: 0;
+		position: absolute;
+		width: 120px;
+		height: 213.12px;
+		left: 49.56px;
+		top: 59px;
+		overflow: visible;
+	}
+	#n_-removebg-preview_be {
+		opacity: 0;
+		position: absolute;
+		width: 90px;
+		height: 159.84px;
+		left: 62.56px;
+		top: 188.2px;
+		overflow: visible;
+	}
+	#n_-removebg-preview_bf {
+		opacity: 0;
+		position: absolute;
+		width: 120px;
+		height: 213.12px;
+		left: 47.56px;
+		top: 255px;
+		overflow: visible;
+	}
