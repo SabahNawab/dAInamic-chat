@@ -1,0 +1,268 @@
+	.mediaViewInfo {
+		--web-view-name: Start Page 1 – 1;
+		--web-view-id: Start_Page_1__1;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: Start_Page_1__1;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Start_Page_1__1 {
+		position: absolute;
+		width: 1540px;
+		height: 930px;
+		background-color: rgba(252,253,243,1);
+		overflow: hidden;
+		--web-view-name: Start Page 1 – 1;
+		--web-view-id: Start_Page_1__1;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#A_tech_logo_circuit_logo__5_-r {
+		position: absolute;
+		width: 125px;
+		height: 125px;
+		left: -9px;
+		top: -12px;
+		overflow: visible;
+	}
+	#Line_6 {
+		fill: transparent;
+		stroke: rgba(196,196,196,0.49);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_6 {
+		overflow: visible;
+		position: absolute;
+		width: 5px;
+		height: 970.006px;
+		left: 1429.5px;
+		top: -27.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#A_tech_logo_circuit_logo__7_-r {
+		position: absolute;
+		width: 151px;
+		height: 151px;
+		left: 1409px;
+		top: 412px;
+		overflow: visible;
+	}
+	#A_tech_logo_circuit_logo__6_-r {
+		position: absolute;
+		width: 142px;
+		height: 142px;
+		left: 1421px;
+		top: 528px;
+		overflow: visible;
+	}
+	#A_tech_logo_circuit_logo__9_-r {
+		position: absolute;
+		width: 155px;
+		height: 155px;
+		left: 1406px;
+		top: 289px;
+		overflow: visible;
+	}
+	#Rectangle_28 {
+		fill: rgba(144,87,207,0.631);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_28 {
+		position: absolute;
+		overflow: visible;
+		width: 377px;
+		height: 11px;
+		left: 719px;
+		top: 465px;
+	}
+	#Line_7 {
+		fill: transparent;
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_7 {
+		overflow: visible;
+		position: absolute;
+		width: 1862px;
+		height: 2.5px;
+		transform: matrix(1,0,0,1,-136.5,98) rotate(180deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#n_2-removebg-preview {
+		position: absolute;
+		width: 500px;
+		height: 500px;
+		left: 556px;
+		top: 480px;
+		overflow: visible;
+	}
+	#n_1-removebg-preview {
+		position: absolute;
+		width: 437px;
+		height: 437px;
+		left: 1163px;
+		top: 567px;
+		overflow: visible;
+	}
+	#Create__and_Generate_graphic__ {
+		left: 711px;
+		top: 488px;
+		position: absolute;
+		overflow: visible;
+		width: 672px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Palatino Linotype;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 51px;
+		color: rgba(0,0,0,1);
+	}
+	#Component_8__2 {
+		position: absolute;
+		width: 192px;
+		height: 61px;
+		left: 1000px;
+		top: 23px;
+		overflow: visible;
+		transition: all 0.5s snap;
+		--web-animation: fadein 0.5s snap;
+		--web-action-type: page;
+		--web-action-target: Start_Page_1___2.html;
+		cursor: pointer;
+	}
+	#Rectangle_43 {
+		fill: rgba(252,253,243,1);
+	}
+	.Rectangle_43 {
+		position: absolute;
+		overflow: visible;
+		width: 192px;
+		height: 61px;
+		left: 0px;
+		top: 0px;
+	}
+	#LOGIN {
+		left: 48px;
+		top: 14px;
+		position: absolute;
+		overflow: visible;
+		width: 88px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Palatino Linotype;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(0,0,0,1);
+	}
+	#Component_9__2 {
+		position: absolute;
+		width: 173px;
+		height: 61px;
+		left: 1154px;
+		top: 23px;
+		overflow: visible;
+		transition: all 0.5s snap;
+		--web-animation: fadein 0.5s snap;
+		--web-action-type: page;
+		--web-action-target: Start_Page_1___3.html;
+		cursor: pointer;
+	}
+	#Rectangle_44 {
+		fill: rgba(252,253,243,1);
+	}
+	.Rectangle_44 {
+		position: absolute;
+		overflow: visible;
+		width: 173px;
+		height: 61px;
+		left: 0px;
+		top: 0px;
+	}
+	#SIGN_UP {
+		left: 34px;
+		top: 15px;
+		position: absolute;
+		overflow: visible;
+		width: 107px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Palatino Linotype;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(0,0,0,1);
+	}
+	#Line_5 {
+		fill: transparent;
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_5 {
+		overflow: visible;
+		position: absolute;
+		width: 13.294px;
+		height: 4.956px;
+		left: 1539.5px;
+		top: 591.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#n_42ef921995c3baed168bf7f54057 {
+		position: absolute;
+		width: 715px;
+		height: 1011px;
+		left: -19px;
+		top: -17px;
+		overflow: visible;
+	}
+	#DAINAMIC_ {
+		left: 696px;
+		top: 207px;
+		position: absolute;
+		overflow: visible;
+		width: 680px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Palatino Linotype;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 120px;
+		color: rgba(0,0,0,1);
+	}
