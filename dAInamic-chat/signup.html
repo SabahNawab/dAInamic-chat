@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sign in || Sign up from</title>
+    <!-- font awesome icons -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+      integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <!-- css stylesheet -->
+    <link rel="stylesheet" href="signup.css" />
+  </head>
+  <body>
+    <img src="mere_assets/logo_blc.png" alt="Logo" />
+    <div class="container" id="container">
+      <div class="form-container sign-in-container">
+        <form action="#">
+          <h1>Sign Up</h1>
+          <div class="social-container">
+            <a href="https://www.facebook.com" class="social"
+              ><i class="fab fa-facebook-f"></i
+            ></a>
+            <a href="https://accounts.google.com/" class="social"
+              ><i class="fab fa-google-plus-g"></i
+            ></a>
+            <a href="https://pk.linkedin.com/" class="social"
+              ><i class="fab fa-linkedin-in"></i
+            ></a>
+          </div>
+          <span>or use your Email</span>
+          <div class="infield">
+            <input type="Name" placeholder="Name" name="Name" />
+            <label></label>
+          </div>
+          <div class="infield">
+            <input type="email" placeholder="Email" name="email" />
+            <label></label>
+          </div>
+          <div class="infield">
+            <input type="password" placeholder="Password" />
+            <label></label>
+          </div>
+          <button id="abc">
+            <a href="home.html" id="go_login">SignUp</a>
+          </button>
+        </form>
+      </div>
+      <div class="overlay-container" id="overlayCon">
+        <div class="overlay">
+          <div class="overlay-panel overlay-right">
+            <h1>Welcome Back!</h1>
+            <p>Login to continue your journey with Dainmaic</p>
+            <button id="lmn">
+              <a href="login.html" id="go_signup"> Login</a>
+            </button>
+          </div>
+        </div>
+        <!-- <button id="overlayBtn"></button> -->
+      </div>
+    </div>
+
+    <!-- js code -->
+    <script>
+      const container = document.getElementById("container");
+      const overlayCon = document.getElementById("overlayCon");
+      const btn = document.getElementById("sign");
+    </script>
+  </body>
+</html>

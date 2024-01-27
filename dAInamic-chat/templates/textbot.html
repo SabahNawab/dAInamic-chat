@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Chatbot</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+      integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="../static/textbot.css" />
+    <script></script>
+  </head>
+  <body>
+    <nav>
+      <img src="../static/logo_w.png" alt="Logo" />
+      <ul>
+        <h1>Chat With dAInamic</h1>
+        <!-- <li>
+          <a href="../home.html">Back</a>
+        </li>
+        <li>
+          <a href="../index.html">Log Out</a>
+        </li> -->
+      </ul>
+    </nav>
+
+    <form method="POST">
+      <label for="input_language">Enter your language:</label>
+      <input
+        type="text"
+        name="input_language"
+        id="input_language"
+        placeholder="e.g. German, French, Chinese"
+      />
+      <br /><br />
+      <label for="input_text">Chat here:</label>
+      <input
+        type="text"
+        name="input_text"
+        id="input_text"
+        placeholder="Type your message here"
+      />
+      <br /><br />
+      <input type="submit" value="Send" />
+    </form>
+    {% if input_text %}
+    <div class="result">
+      <h3>Me:</h3>
+      <p>{{ input_text }}</p>
+    </div>
+    {% endif %} {% if output %}
+    <div class="result">
+      <h3>dAInamic:</h3>
+      <p>{{ output }}</p>
+    </div>
+    {% endif %}
+  </body>
+</html>

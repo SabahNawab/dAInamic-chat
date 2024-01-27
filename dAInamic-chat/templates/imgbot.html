@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>IMGBOT</title>
+    <link rel="stylesheet" href="../static/imgbot.css" />
+  </head>
+  <body>
+    <nav>
+      <img src="../static/logo_w.png" alt="Logo" />
+      <ul>
+        <h1>Create Art With dAInamic</h1>
+        <!-- <li>
+          <a href="/home.html">Back</a>
+        </li>
+        <li>
+          <a href="/index.html">Log Out</a>
+        </li> -->
+        
+      </ul>
+    </nav>
+    <form method="POST">
+      <label for="input_language">Enter your language:</label>
+      <input
+        type="text"
+        name="input_language"
+        id="input_language"
+        placeholder="e.g. German, French, Chinese"
+      />
+      <br /><br />
+    <form method="POST">
+      <label for="input_text">Input:</label>
+      <input type="text" name="input_text" id="input_text" /><br /><br />
+      <input type="submit" value="Submit" />
+    </form>
+    {% if input_text %}
+    <div class="result">
+      <h3>Input:</h3>
+      <p>{{ input_text }}</p>
+    </div>
+    {% endif %} {% if output %}
+    <div class="result">
+      <h3>Output:</h3>
+      <a href="{{ output }}">{{ output }}</a>
+    </div>
+
+    {% endif %}
+  </body>
+</html>
