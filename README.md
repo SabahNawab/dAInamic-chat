@@ -19,10 +19,10 @@ design-related services, such as color palette suggestions, font recommendations
 
 Installation:
 
-Currently, dAInamic Chat is not available for download or installation. It is a proof-of-concept project designed to showcase the potential of using machine learning
-and deep learning techniques in combination with NLP, image recognition, and voice recognition to create a more sophisticated and dynamic chatbot. The full model is 
-inprogress.
-Contributing:
+install then dAInamic-chat folder and run the dAinamic.py file in backend and then run the home.html 
+
+
+
 
 We welcome contributions to the project, including suggestions for new features, improvements to the existing features, and bug reports. Please feel free to create a 
 new issue or pull request on the GitHub repository if you would like to contribute to the project.
